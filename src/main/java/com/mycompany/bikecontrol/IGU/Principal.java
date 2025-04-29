@@ -77,9 +77,7 @@ public class Principal extends javax.swing.JFrame {
                 .addGap(41, 41, 41))
         );
 
-        jLabel3.setText("Descripcion Aplicativo");
-
-        jLabel4.setIcon(new javax.swing.ImageIcon("C:\\Users\\TUF\\Documents\\images.png")); // NOI18N
+        jLabel3.setText("Descripcion");
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
