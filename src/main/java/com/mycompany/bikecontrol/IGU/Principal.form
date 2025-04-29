@@ -156,7 +156,7 @@
         </Container>
         <Component class="javax.swing.JLabel" name="jLabel3">
           <Properties>
-            <Property name="text" type="java.lang.String" value="Descripcion"/>
+            <Property name="text" type="java.lang.String" value="Descripcion Aplicativo"/>
           </Properties>
         </Component>
         <Component class="javax.swing.JLabel" name="jLabel4">
