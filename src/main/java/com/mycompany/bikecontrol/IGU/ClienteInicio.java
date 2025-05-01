@@ -67,7 +67,7 @@ public class ClienteInicio extends javax.swing.JFrame {
                             .addComponent(jButton3, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                             .addComponent(jButton4, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)))
                     .addGroup(jPanel2Layout.createSequentialGroup()
-                        .addGap(37, 37, 37)
+                        .addGap(46, 46, 46)
                         .addComponent(jbCerrarSesion)))
                 .addContainerGap(237, Short.MAX_VALUE))
         );
@@ -82,9 +82,9 @@ public class ClienteInicio extends javax.swing.JFrame {
                 .addComponent(jButton3)
                 .addGap(27, 27, 27)
                 .addComponent(jButton4)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 129, Short.MAX_VALUE)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 119, Short.MAX_VALUE)
                 .addComponent(jbCerrarSesion)
-                .addGap(16, 16, 16))
+                .addGap(26, 26, 26))
         );
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
