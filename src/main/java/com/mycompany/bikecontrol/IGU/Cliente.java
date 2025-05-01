@@ -186,7 +186,12 @@ public class Cliente extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void BISClienteActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_BISClienteActionPerformed
-        // TODO add your handling code here:
+        
+        
+        ClienteInicio pantalla = new ClienteInicio();
+         pantalla.setVisible(true);
+         pantalla.setLocationRelativeTo(this);
+        
     }//GEN-LAST:event_BISClienteActionPerformed
 
     private void BRClienteActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_BRClienteActionPerformed
